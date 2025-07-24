@@ -85,7 +85,6 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
-     "haohua": {
+     "haohauyingshi": {
       "api": "https://hhzyapi.com/api.php/provide/vod/at/xml",
       "name": "豪华资源"
-}

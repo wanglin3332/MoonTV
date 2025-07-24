@@ -86,5 +86,9 @@
       "name": "小猫咪资源"
     }
      "haohauyingshi": {
-      "api": "https://hhzyapi.com/api.php/provide/vod/at/xml",
+      "api": "https://hhzyapi.com/api.php/provide/vod",
       "name": "豪华资源"
+    }
+  }
+}
+    

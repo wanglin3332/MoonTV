@@ -89,9 +89,10 @@
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "name": "豪华资源"
     },
-    "茅台": {
+    "maotai": {
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "name": "茅台资源站"
+     }
   }
 }
     
